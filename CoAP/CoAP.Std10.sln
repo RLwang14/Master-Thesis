@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoAP.Std10", "CoAP.NET\CoAP.Std10.csproj", "{45DB1E45-4831-4E4A-BB1E-AE92EEA182E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoAP.Client.Std10", "CoAP.Example\CoAP.Client\CoAP.Client.Std10.csproj", "{30223FF5-4DCB-45B8-9B06-61EB9FBF9FA8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoAP.Server.Std10", "CoAP.Example\CoAP.Server\CoAP.Server.Std10.csproj", "{05CC2E5E-B663-4560-844C-C8E52ED1C9D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example", "Example", "{3EA3A946-6E2C-4389-BE83-0F61C6244E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorX", "Monitor\MonitorX.csproj", "{742CA6AF-29E1-4AE6-868F-F9480052F47D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Deploy|AnyCPU = Deploy|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DB1E45-4831-4E4A-BB1E-AE92EEA182E3}.Debug|AnyCPU.ActiveCfg = Debug|Any CPU
+		{45DB1E45-4831-4E4A-BB1E-AE92EEA182E3}.Debug|AnyCPU.Build.0 = Debug|Any CPU
+		{45DB1E45-4831-4E4A-BB1E-AE92EEA182E3}.Deploy|AnyCPU.ActiveCfg = Deploy|Any CPU
+		{45DB1E45-4831-4E4A-BB1E-AE92EEA182E3}.Deploy|AnyCPU.Build.0 = Deploy|Any CPU
+		{45DB1E45-4831-4E4A-BB1E-AE92EEA182E3}.Release|AnyCPU.ActiveCfg = Release|Any CPU
+		{45DB1E45-4831-4E4A-BB1E-AE92EEA182E3}.Release|AnyCPU.Build.0 = Release|Any CPU
+		{30223FF5-4DCB-45B8-9B06-61EB9FBF9FA8}.Debug|AnyCPU.ActiveCfg = Debug|Any CPU
+		{30223FF5-4DCB-45B8-9B06-61EB9FBF9FA8}.Debug|AnyCPU.Build.0 = Debug|Any CPU
+		{30223FF5-4DCB-45B8-9B06-61EB9FBF9FA8}.Deploy|AnyCPU.ActiveCfg = Debug|Any CPU
+		{30223FF5-4DCB-45B8-9B06-61EB9FBF9FA8}.Deploy|AnyCPU.Build.0 = Debug|Any CPU
+		{30223FF5-4DCB-45B8-9B06-61EB9FBF9FA8}.Release|AnyCPU.ActiveCfg = Release|Any CPU
+		{30223FF5-4DCB-45B8-9B06-61EB9FBF9FA8}.Release|AnyCPU.Build.0 = Release|Any CPU
+		{05CC2E5E-B663-4560-844C-C8E52ED1C9D1}.Debug|AnyCPU.ActiveCfg = Debug|Any CPU
+		{05CC2E5E-B663-4560-844C-C8E52ED1C9D1}.Debug|AnyCPU.Build.0 = Debug|Any CPU
+		{05CC2E5E-B663-4560-844C-C8E52ED1C9D1}.Deploy|AnyCPU.ActiveCfg = Debug|Any CPU
+		{05CC2E5E-B663-4560-844C-C8E52ED1C9D1}.Deploy|AnyCPU.Build.0 = Debug|Any CPU
+		{05CC2E5E-B663-4560-844C-C8E52ED1C9D1}.Release|AnyCPU.ActiveCfg = Release|Any CPU
+		{05CC2E5E-B663-4560-844C-C8E52ED1C9D1}.Release|AnyCPU.Build.0 = Release|Any CPU
+		{742CA6AF-29E1-4AE6-868F-F9480052F47D}.Debug|AnyCPU.ActiveCfg = Debug|Any CPU
+		{742CA6AF-29E1-4AE6-868F-F9480052F47D}.Debug|AnyCPU.Build.0 = Debug|Any CPU
+		{742CA6AF-29E1-4AE6-868F-F9480052F47D}.Deploy|AnyCPU.ActiveCfg = Debug|Any CPU
+		{742CA6AF-29E1-4AE6-868F-F9480052F47D}.Deploy|AnyCPU.Build.0 = Debug|Any CPU
+		{742CA6AF-29E1-4AE6-868F-F9480052F47D}.Release|AnyCPU.ActiveCfg = Release|Any CPU
+		{742CA6AF-29E1-4AE6-868F-F9480052F47D}.Release|AnyCPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30223FF5-4DCB-45B8-9B06-61EB9FBF9FA8} = {3EA3A946-6E2C-4389-BE83-0F61C6244E77}
+		{05CC2E5E-B663-4560-844C-C8E52ED1C9D1} = {3EA3A946-6E2C-4389-BE83-0F61C6244E77}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B1AE05-1C85-4758-8A47-80FAEAEC87E5}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CoAP.NET\CoAP.NET.csproj
+	EndGlobalSection
+EndGlobal

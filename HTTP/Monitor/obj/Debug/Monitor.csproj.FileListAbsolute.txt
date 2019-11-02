@@ -1,0 +1,32 @@
+C:\tfs_workspace\latest Version\HTTP\Monitor\bin\Debug\Monitor.dll
+C:\tfs_workspace\latest Version\HTTP\Monitor\bin\Debug\Monitor.pdb
+C:\tfs_workspace\latest Version\HTTP\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\tfs_workspace\latest Version\HTTP\Monitor\obj\Debug\Monitor.dll
+C:\tfs_workspace\latest Version\HTTP\Monitor\obj\Debug\Monitor.pdb
+C:\tfs_workspace\latest Version\HTTP\Monitor\obj\Debug\Monitor.csprojAssemblyReference.cache
+C:\tfs_workspace\checkin_change\HTTP\Monitor\bin\Debug\Monitor.dll
+C:\tfs_workspace\checkin_change\HTTP\Monitor\bin\Debug\Monitor.pdb
+C:\tfs_workspace\checkin_change\HTTP\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\tfs_workspace\checkin_change\HTTP\Monitor\obj\Debug\Monitor.dll
+C:\tfs_workspace\checkin_change\HTTP\Monitor\obj\Debug\Monitor.pdb
+C:\tfs_workspace\modifing\HTTP\Monitor\bin\Debug\Monitor.dll
+C:\tfs_workspace\modifing\HTTP\Monitor\bin\Debug\Monitor.pdb
+C:\tfs_workspace\modifing\HTTP\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\tfs_workspace\modifing\HTTP\Monitor\obj\Debug\Monitor.dll
+C:\tfs_workspace\modifing\HTTP\Monitor\obj\Debug\Monitor.pdb
+C:\tfs_workspace\modifing\HTTP\Monitor\obj\Debug\Monitor.csprojAssemblyReference.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\Monitor\bin\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\Monitor\bin\Debug\Monitor.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\Monitor\obj\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\Monitor\obj\Debug\Monitor.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\Monitor\bin\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\Monitor\bin\Debug\Monitor.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\Monitor\obj\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\Monitor\obj\Debug\Monitor.pdb
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\Monitor\bin\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\Monitor\bin\Debug\Monitor.pdb
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\Monitor\obj\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\Monitor\obj\Debug\Monitor.pdb
