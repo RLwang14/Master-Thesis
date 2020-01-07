@@ -1,0 +1,60 @@
+C:\tfs_workspace\latest Version\HTTP\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\tfs_workspace\latest Version\HTTP\HTTPServer\bin\Debug\HTTPServer.exe
+C:\tfs_workspace\latest Version\HTTP\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\tfs_workspace\latest Version\HTTP\HTTPServer\bin\Debug\Monitor.dll
+C:\tfs_workspace\latest Version\HTTP\HTTPServer\bin\Debug\Monitor.pdb
+C:\tfs_workspace\latest Version\HTTP\HTTPServer\obj\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\tfs_workspace\latest Version\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\tfs_workspace\latest Version\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CopyComplete
+C:\tfs_workspace\latest Version\HTTP\HTTPServer\obj\Debug\HTTPServer.exe
+C:\tfs_workspace\latest Version\HTTP\HTTPServer\obj\Debug\HTTPServer.pdb
+C:\tfs_workspace\checkin_change\HTTP\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\tfs_workspace\checkin_change\HTTP\HTTPServer\bin\Debug\HTTPServer.exe
+C:\tfs_workspace\checkin_change\HTTP\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\tfs_workspace\checkin_change\HTTP\HTTPServer\bin\Debug\Monitor.dll
+C:\tfs_workspace\checkin_change\HTTP\HTTPServer\bin\Debug\Monitor.pdb
+C:\tfs_workspace\checkin_change\HTTP\HTTPServer\obj\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\tfs_workspace\checkin_change\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\tfs_workspace\checkin_change\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CopyComplete
+C:\tfs_workspace\checkin_change\HTTP\HTTPServer\obj\Debug\HTTPServer.exe
+C:\tfs_workspace\checkin_change\HTTP\HTTPServer\obj\Debug\HTTPServer.pdb
+C:\tfs_workspace\modifing\HTTP\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\tfs_workspace\modifing\HTTP\HTTPServer\bin\Debug\HTTPServer.exe
+C:\tfs_workspace\modifing\HTTP\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\tfs_workspace\modifing\HTTP\HTTPServer\bin\Debug\Monitor.dll
+C:\tfs_workspace\modifing\HTTP\HTTPServer\bin\Debug\Monitor.pdb
+C:\tfs_workspace\modifing\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\tfs_workspace\modifing\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CopyComplete
+C:\tfs_workspace\modifing\HTTP\HTTPServer\obj\Debug\HTTPServer.exe
+C:\tfs_workspace\modifing\HTTP\HTTPServer\obj\Debug\HTTPServer.pdb
+C:\tfs_workspace\modifing\HTTP\HTTPServer\obj\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPServer\obj\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPServer\obj\Debug\HTTPServer.exe
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPServer\obj\Debug\HTTPServer.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPServer\bin\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPServer\bin\Debug\Monitor.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CopyComplete
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPServer\bin\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPServer\bin\Debug\Monitor.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPServer\obj\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CopyComplete
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPServer\obj\Debug\HTTPServer.exe
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPServer\obj\Debug\HTTPServer.pdb
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPServer\bin\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPServer\bin\Debug\Monitor.pdb
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPServer\obj\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPServer\obj\Debug\HTTPServer.csproj.CopyComplete
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPServer\obj\Debug\HTTPServer.exe
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPServer\obj\Debug\HTTPServer.pdb

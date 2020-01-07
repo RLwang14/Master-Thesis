@@ -1,0 +1,60 @@
+C:\tfs_workspace\latest Version\HTTP\HTTPClient\bin\Debug\HTTPClient.exe.config
+C:\tfs_workspace\latest Version\HTTP\HTTPClient\bin\Debug\HTTPClient.exe
+C:\tfs_workspace\latest Version\HTTP\HTTPClient\bin\Debug\HTTPClient.pdb
+C:\tfs_workspace\latest Version\HTTP\HTTPClient\bin\Debug\Monitor.dll
+C:\tfs_workspace\latest Version\HTTP\HTTPClient\bin\Debug\Monitor.pdb
+C:\tfs_workspace\latest Version\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CoreCompileInputs.cache
+C:\tfs_workspace\latest Version\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CopyComplete
+C:\tfs_workspace\latest Version\HTTP\HTTPClient\obj\Debug\HTTPClient.exe
+C:\tfs_workspace\latest Version\HTTP\HTTPClient\obj\Debug\HTTPClient.pdb
+C:\tfs_workspace\latest Version\HTTP\HTTPClient\obj\Debug\HTTPClient.csprojAssemblyReference.cache
+C:\tfs_workspace\checkin_change\HTTP\HTTPClient\bin\Debug\HTTPClient.exe.config
+C:\tfs_workspace\checkin_change\HTTP\HTTPClient\bin\Debug\HTTPClient.exe
+C:\tfs_workspace\checkin_change\HTTP\HTTPClient\bin\Debug\HTTPClient.pdb
+C:\tfs_workspace\checkin_change\HTTP\HTTPClient\bin\Debug\Monitor.dll
+C:\tfs_workspace\checkin_change\HTTP\HTTPClient\bin\Debug\Monitor.pdb
+C:\tfs_workspace\checkin_change\HTTP\HTTPClient\obj\Debug\HTTPClient.csprojAssemblyReference.cache
+C:\tfs_workspace\checkin_change\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CoreCompileInputs.cache
+C:\tfs_workspace\checkin_change\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CopyComplete
+C:\tfs_workspace\checkin_change\HTTP\HTTPClient\obj\Debug\HTTPClient.exe
+C:\tfs_workspace\checkin_change\HTTP\HTTPClient\obj\Debug\HTTPClient.pdb
+C:\tfs_workspace\modifing\HTTP\HTTPClient\bin\Debug\HTTPClient.exe.config
+C:\tfs_workspace\modifing\HTTP\HTTPClient\bin\Debug\HTTPClient.exe
+C:\tfs_workspace\modifing\HTTP\HTTPClient\bin\Debug\HTTPClient.pdb
+C:\tfs_workspace\modifing\HTTP\HTTPClient\bin\Debug\Monitor.dll
+C:\tfs_workspace\modifing\HTTP\HTTPClient\bin\Debug\Monitor.pdb
+C:\tfs_workspace\modifing\HTTP\HTTPClient\obj\Debug\HTTPClient.csprojAssemblyReference.cache
+C:\tfs_workspace\modifing\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CoreCompileInputs.cache
+C:\tfs_workspace\modifing\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CopyComplete
+C:\tfs_workspace\modifing\HTTP\HTTPClient\obj\Debug\HTTPClient.exe
+C:\tfs_workspace\modifing\HTTP\HTTPClient\obj\Debug\HTTPClient.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPClient\obj\Debug\HTTPClient.csprojAssemblyReference.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CoreCompileInputs.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPClient\obj\Debug\HTTPClient.exe
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPClient\obj\Debug\HTTPClient.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPClient\bin\Debug\HTTPClient.exe.config
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPClient\bin\Debug\HTTPClient.exe
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPClient\bin\Debug\HTTPClient.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPClient\bin\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPClient\bin\Debug\Monitor.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\1Test_HTTP_GET_30_1C_1h\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CopyComplete
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPClient\bin\Debug\HTTPClient.exe.config
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPClient\bin\Debug\HTTPClient.exe
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPClient\bin\Debug\HTTPClient.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPClient\bin\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPClient\bin\Debug\Monitor.pdb
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPClient\obj\Debug\HTTPClient.csprojAssemblyReference.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CoreCompileInputs.cache
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CopyComplete
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPClient\obj\Debug\HTTPClient.exe
+C:\Users\wangyon03\Desktop\Testing\HTTP test\HTTP\HTTPClient\obj\Debug\HTTPClient.pdb
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPClient\bin\Debug\HTTPClient.exe.config
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPClient\bin\Debug\HTTPClient.exe
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPClient\bin\Debug\HTTPClient.pdb
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPClient\bin\Debug\Monitor.dll
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPClient\bin\Debug\Monitor.pdb
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPClient\obj\Debug\HTTPClient.csprojAssemblyReference.cache
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CoreCompileInputs.cache
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPClient\obj\Debug\HTTPClient.csproj.CopyComplete
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPClient\obj\Debug\HTTPClient.exe
+C:\Users\wangyon03\Desktop\TestNEw\PrivateNetwork\HTTP\HTTPClient\obj\Debug\HTTPClient.pdb
